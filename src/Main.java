@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         int[] mas = {1, 5, 653, 21, 23, 32};
         System.out.println(Arrays.toString(method(mas)));
+        System.out.println("hello world ");
 
 
     }
